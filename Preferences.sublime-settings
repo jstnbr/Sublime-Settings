@@ -1,0 +1,50 @@
+{
+	/* Themes
+	------------ */
+
+
+	"theme": "Default.sublime-theme",
+	"color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
+
+	// Default
+	// "theme": "Default.sublime-theme",
+	// "color_scheme": "Packages/User/Themes/Default/Monokai.tmTheme",
+
+	// Glacier
+	// "theme": "Packages/User/Themes/Glacier/Glacier.sublime-theme",
+	// "color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
+
+	// Cobalt2
+	// "theme": "Packages/User/Themes/Cobalt2/Cobalt2.sublime-theme",
+	// "color_scheme": "Packages/User/Themes/Cobalt2/cobalt2.tmTheme",
+
+	// Augmented Reaction
+	// "theme": "Packages/User/Themes/Augmented Reaction/Augmented Reaction.sublime-theme",
+	// "color_scheme": "Packages/User/Themes/Augmented Reaction/Augmented Reaction.tmTheme",
+
+	// Material Color Scheme
+	// "color_scheme": "Packages/User/Themes/Material/material-dark.tmTheme",
+
+
+	/* Text
+	------------ */
+
+
+	// Font Face
+	"font_face": "Consolas",
+
+	// Font Size
+	"font_size": 11.0,
+
+
+
+
+	/* Ignored Packages
+	------------ */
+
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
