@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"SCSS"
+	],
+
+	"bootstrapped": true,
+	"in_process_packages": []
+}
