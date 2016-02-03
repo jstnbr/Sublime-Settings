@@ -1,8 +1,8 @@
-## Sublime Settings
+# Sublime Settings
 
 My Sublime Text 2 user settings.
 
-### Packages
+## Packages
 
 Emmet
 HTML-CSS-JS Prettify
