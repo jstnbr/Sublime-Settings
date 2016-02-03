@@ -1,10 +1,11 @@
 {
-	/* Themes
-	------------ */
+	/*
+		Theme
+	*/
 
 
 	"theme": "Default.sublime-theme",
-	"color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
+	"color_scheme": "Packages/User/Themes/Cobalt2/cobalt2.tmTheme",
 
 	// Default
 	// "theme": "Default.sublime-theme",
@@ -28,8 +29,9 @@
 
 
 
-	/* Text
-	------------ */
+	/*
+		Text
+	*/
 
 
 	// Font Face
@@ -41,8 +43,9 @@
 
 
 
-	/* Ignored
-	------------ */
+	/*
+		Ignore
+	*/
 
 
 	"ignored_packages":

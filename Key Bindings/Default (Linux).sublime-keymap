@@ -39,5 +39,20 @@
 	{
 		"keys": ["alt+shift+j"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Javascript/JavaScript.tmLanguage"}
+	},
+
+	// Emmet
+	{
+		"keys": ["alt+shift+w"], "command": "wrap_as_you_type",
+		"context": [{
+			"operand": false, 
+			"operator": "equal", 
+			"match_all": true, 
+			"key": "setting.is_widget"
+		}, 
+		{
+			"match_all": true, 
+			"key": "emmet_action_enabled.wrap_as_you_type"
+		}]
 	}
 ]
