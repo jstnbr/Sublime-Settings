@@ -1,4 +1,8 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Emmet",
@@ -6,8 +10,5 @@
 		"Laravel Blade Highlighter",
 		"Package Control",
 		"SCSS"
-	],
-
-	"bootstrapped": true,
-	"in_process_packages": []
+	]
 }
