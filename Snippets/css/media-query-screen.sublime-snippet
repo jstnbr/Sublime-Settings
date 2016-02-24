@@ -1,11 +1,11 @@
 <snippet>
 <content>
 <![CDATA[
-@media (${1:min}-width: ${2:320}px) {$3}
+@media only screen and (${1:min}-width: ${2:320}px) {$3}
 ]]>
 </content>
 
-<tabTrigger>mq</tabTrigger>
+<tabTrigger>mq-s</tabTrigger>
 
 <scope>source.css</scope>
 </snippet>
