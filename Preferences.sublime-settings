@@ -35,16 +35,19 @@
 
 
 	// Font Face
-	"font_face": "Droid Sans Mono",
-
-	// "font_face": "Consolas",
-	// "font_face": "Menlo",
-	// "font_face": "Meslo LG M",
-	// "font_face": "Droid Sans Mono",
-	// "font_face": "Roboto Mono",
+	// Consolas, Menlo, Meslo LG M, Droid Sans Mono, Roboto Mono, Fixedsys
+	"font_face": "Menlo",
 
 	// Font Size
 	"font_size": 10.0,
+
+	// Line Height
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+
+	// Caret Style
+	// smooth, phase, blink, solid, wide
+	"caret_style": "wide",
 
 
 
