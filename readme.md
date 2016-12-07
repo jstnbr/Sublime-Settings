@@ -1,10 +1,16 @@
 # Sublime Settings
 
-My Sublime Text 2 user settings.
+My Sublime Text 3 user settings.
 
-## Packages
+## Includes
 
-- Emmet  
-- HTML-CSS-JS Prettify  
-- Laravel Blade Highlighter  
-- SCSS
+- Package Control
+- Themes
+- Key Bindings
+- Emmet
+- HTML-CSS-JS Prettify
+- Works Offline
+
+## Usage
+
+In Sublime Text select `Browse Packages`, and replace `/Packages` and `/Installed Packages` with the ones from this repository.
