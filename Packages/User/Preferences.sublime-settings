@@ -1,0 +1,48 @@
+{
+	/*
+		Theme
+	*/
+
+	"theme": "Default.sublime-theme",
+	"color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
+
+	// Default
+	// "theme": "Default.sublime-theme",
+	// "color_scheme": "Packages/User/Themes/Default/Monokai.tmTheme",
+
+	// Augmented Reaction
+	// "theme": "Packages/User/Themes/Augmented Reaction/Augmented Reaction.sublime-theme",
+	// "color_scheme": "Packages/User/Themes/Augmented Reaction/Augmented Reaction.tmTheme",
+
+	// Facebook
+	// "color_scheme": "Packages/User/Themes/Facebook/Facebook.tmTheme",
+
+	// Glacier
+	// "theme": "Packages/User/Themes/Glacier/Glacier.sublime-theme",
+	// "color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
+
+	/*
+		Text
+	*/
+
+	// Consolas, Droid Sans Mono, Menlo, Roboto Mono
+	"font_face": "Menlo",
+
+	"font_size": 11,
+
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+
+	// smooth, phase, blink, solid, wide
+	"caret_style": "wide",
+
+
+	/*
+		Ignore
+	*/
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
