@@ -1,6 +1,6 @@
 # Sublime Settings
 
-My Sublime Text 3 user settings.
+Sublime Text 3 custom settings.
 
 ## Includes
 
@@ -9,8 +9,7 @@ My Sublime Text 3 user settings.
 - Key Bindings
 - Emmet
 - HTML-CSS-JS Prettify
-- Works Offline
 
 ## Usage
 
-In Sublime Text select `Browse Packages`, and replace `/Packages` and `/Installed Packages` with the ones from this repository.
+In Sublime Text select *Preferences -> Browse Packages*, and replace the folders `Packages` and `Installed Packages` with the ones from this repository.
