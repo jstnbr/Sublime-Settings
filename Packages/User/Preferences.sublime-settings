@@ -6,9 +6,6 @@
 	"theme": "Default.sublime-theme",
 	"color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
 
-	// Default
-	// "color_scheme": "Packages/User/Themes/Default/Monokai.tmTheme",
-
 	// Augmented Reaction
 	// "color_scheme": "Packages/User/Themes/Augmented Reaction/Augmented Reaction.tmTheme",
 
