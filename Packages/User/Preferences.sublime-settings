@@ -7,16 +7,12 @@
 	"color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
 
 	// Default
-	// "theme": "Default.sublime-theme",
 	// "color_scheme": "Packages/User/Themes/Default/Monokai.tmTheme",
 
 	// Augmented Reaction
-	// "theme": "Packages/User/Themes/Augmented Reaction/Augmented Reaction.sublime-theme",
 	// "color_scheme": "Packages/User/Themes/Augmented Reaction/Augmented Reaction.tmTheme",
 
 	// Enki
-	// "theme": "Enki-Theme.sublime-theme",
-	// "theme": "Enki-Theme-Light.sublime-theme",
 	// "color_scheme": "Packages/User/Themes/Enki/scheme/Enki.tmTheme",
 	// "color_scheme": "Packages/User/Themes/Enki/scheme/Enki-Alt.tmTheme",
 	// "color_scheme": "Packages/User/Themes/Enki/scheme/Enki-Aster.tmTheme",
@@ -27,7 +23,6 @@
 	// "color_scheme": "Packages/User/Themes/Facebook/Facebook.tmTheme",
 
 	// Glacier
-	// "theme": "Packages/User/Themes/Glacier/Glacier.sublime-theme",
 	// "color_scheme": "Packages/User/Themes/Glacier/glacier.tmTheme",
 
 	/*
