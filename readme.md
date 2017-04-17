@@ -1,6 +1,6 @@
 # Sublime Settings
 
-Sublime Text 3 custom settings
+Sublime Text custom settings
 
 ## Includes
 

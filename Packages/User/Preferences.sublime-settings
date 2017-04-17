@@ -1,7 +1,7 @@
 {
 	/*
-		Theme
-	*/
+	 * Theme
+	 */
 
 	"theme": "Default.sublime-theme",
 	"color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
@@ -22,24 +22,27 @@
 	// Glacier
 	// "color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
 
+
 	/*
-		Text
-	*/
+	 * Text
+	 */
 
 	// Consolas, Droid Sans Mono, Inconsolata, Input Mono, Menlo, Roboto Mono, Space Mono
 	"font_face": "Menlo",
 
 	"font_size": 11,
 
-	"line_padding_top": 2,
-	"line_padding_bottom": 2,
+	"line_padding_top": 4,
+
+	"line_padding_bottom": 4,
 
 	// smooth, phase, blink, solid, wide
 	"caret_style": "wide",
 
+
 	/*
-		Ignore
-	*/
+	 * Ignore
+	 */
 
 	"ignored_packages":
 	[

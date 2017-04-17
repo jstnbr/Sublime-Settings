@@ -1,0 +1,10 @@
+{
+	"snippets": {
+		"css": {
+			"snippets": {
+				"mq": "@media (${1:min}-width: ${2:768}px) {$3}",
+				"mq-s": "@media screen and (${1:min}-width: ${2:768}px) {$3}",
+			}
+		}
+	}
+}
