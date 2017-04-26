@@ -5,10 +5,11 @@ Sublime Text custom settings
 ## Includes
 
 - Package Control
-- Themes
-- Key Bindings
 - Emmet
 - HTML-CSS-JS Prettify
+- Key Bindings
+- Snippets
+- Themes
 
 ## Usage
 
