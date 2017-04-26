@@ -1,22 +1,5 @@
 [
-	// Emmet
-
-	{
-		"keys": ["alt+shift+w"], "command": "wrap_as_you_type",
-		"context": [{
-			"operand": false, 
-			"operator": "equal", 
-			"match_all": true, 
-			"key": "setting.is_widget"
-		},
-		{
-			"match_all": true, 
-			"key": "emmet_action_enabled.wrap_as_you_type"
-		}]
-	},
-
 	// Syntax Change
-
 	{
 		"keys": ["alt+shift+c"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/CSS/CSS.sublime-syntax"}
@@ -53,15 +36,28 @@
 	},
 
 	// Toggle Sidebar
-
 	{
 		"keys": ["alt+q"], "command": "toggle_side_bar"
 	},
 
 	// Word Wrap
-
 	{
 		"keys": ["alt+w"], "command": "toggle_setting",
 		"args": {"setting": "word_wrap"}
+	},
+
+	// Emmet
+	{
+		"keys": ["alt+shift+w"], "command": "wrap_as_you_type",
+		"context": [{
+			"operand": false, 
+			"operator": "equal", 
+			"match_all": true, 
+			"key": "setting.is_widget"
+		},
+		{
+			"match_all": true, 
+			"key": "emmet_action_enabled.wrap_as_you_type"
+		}]
 	}
 ]
