@@ -4,35 +4,37 @@
 		"keys": ["alt+shift+c"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/CSS/CSS.sublime-syntax"}
 	},
-
 	{
 		"keys": ["alt+shift+h"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/HTML/HTML.sublime-syntax"}
 	},
-
 	{
 		"keys": ["alt+shift+l"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/Laravel Blade/laravel-blade.sublime-syntax"}
 	},
-
 	{
 		"keys": ["alt+shift+j"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/Javascript/JavaScript.sublime-syntax"}
 	},
-
+	{
+		"keys": ["alt+shift+m"], "command": "set_file_type",
+		"args": {"syntax": "Packages/Syntax/Markdown/Markdown.sublime-syntax"}
+	},
 	{
 		"keys": ["alt+shift+o"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/Javascript/JSON.sublime-syntax"}
 	},
-
 	{
 		"keys": ["alt+shift+p"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/PHP/PHP.sublime-syntax"}
 	},
-
 	{
 		"keys": ["alt+shift+s"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/Sass/Sass.tmLanguage"}
+	},
+	{
+		"keys": ["alt+shift+t"], "command": "set_file_type",
+		"args": {"syntax": "Packages/Syntax/Text/Plain text.tmLanguage"}
 	},
 
 	// Toggle Sidebar
