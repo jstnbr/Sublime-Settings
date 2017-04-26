@@ -22,6 +22,12 @@
 	// Glacier
 	// "color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
 
+	// Material
+	// "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme.tmTheme",
+	// "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Darker.tmTheme",
+	// "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Lighter.tmTheme",
+	// "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Palenight.tmTheme",
+
 
 	/*
 	 * Text
