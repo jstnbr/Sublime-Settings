@@ -39,7 +39,7 @@
 
 	// Toggle Sidebar
 	{
-		"keys": ["alt+q"], "command": "toggle_side_bar"
+		"keys": ["alt+`"], "command": "toggle_side_bar"
 	},
 
 	// Word Wrap
