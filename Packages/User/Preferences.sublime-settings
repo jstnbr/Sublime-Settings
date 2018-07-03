@@ -1,34 +1,30 @@
 {
-    /**
-     * Preferences
+    /*
+     * General
      */
 
-    // smooth, phase, blink, solid, wide
+    // "smooth", "phase", "blink", "solid", "wide"
     "caret_style": "wide",
 
     "open_files_in_new_window": false,
-
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
 
-
-    /**
+    /*
      * Text
      */
 
     "font_face": "Menlo",
     "font_size": 11,
-
-    "line_padding_top": 4,
     "line_padding_bottom": 4,
+    "line_padding_top": 4,
 
-
-    /**
+    /*
      * Theme
      */
 
-    "theme": "Default.sublime-theme",
     "color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
+    "theme": "Default.sublime-theme",
 
     // Augmented Reaction
     // "color_scheme": "Packages/User/Theme/Augmented Reaction/Augmented Reaction.tmTheme",
@@ -51,7 +47,6 @@
     // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Darker.tmTheme",
     // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Lighter.tmTheme",
     // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Palenight.tmTheme",
-
 
     /*
      * Ignore
