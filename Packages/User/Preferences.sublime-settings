@@ -29,6 +29,14 @@
     // Augmented Reaction
     // "color_scheme": "Packages/User/Theme/Augmented Reaction/Augmented Reaction.tmTheme",
 
+    // Ayu
+    // "color_scheme": "Packages/User/Theme/Ayu/ayu-dark.tmTheme",
+    // "color_scheme": "Packages/User/Theme/Ayu/ayu-light.tmTheme",
+    // "color_scheme": "Packages/User/Theme/Ayu/ayu-mirage.tmTheme",
+    // "theme": "ayu-dark.sublime-theme",
+    // "theme": "ayu-light.sublime-theme",
+    // "theme": "ayu-mirage.sublime-theme",
+
     // Enki
     // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki.tmTheme",
     // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Alt.tmTheme",
