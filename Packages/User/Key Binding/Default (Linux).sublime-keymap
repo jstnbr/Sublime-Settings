@@ -1,77 +1,77 @@
 [
-	/*
-	 * Syntax
-	 */
+  /*
+   * Syntax
+   */
 
-	{
-		"keys": ["alt+shift+c"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/CSS/CSS.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+h"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/HTML/HTML.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+l"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Laravel Blade/laravel-blade.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+j"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Javascript/JavaScript.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+m"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Markdown/Markdown.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+o"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Javascript/JSON.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+p"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/PHP/PHP.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+s"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Sass/Syntaxes/SCSS.sublime-syntax"}
-	},
-	{
-		"keys": ["alt+shift+t"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Text/Plain text.tmLanguage"}
-	},
+  {
+    "keys": ["alt+shift+c"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/CSS/CSS.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+h"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/HTML/HTML.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+l"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/Laravel Blade/laravel-blade.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+j"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/Javascript/JavaScript.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+m"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/Markdown/Markdown.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+o"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/Javascript/JSON.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+p"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/PHP/PHP.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+s"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/Sass/Syntaxes/SCSS.sublime-syntax"}
+  },
+  {
+    "keys": ["alt+shift+t"], "command": "set_file_type",
+    "args": {"syntax": "Packages/Syntax/Text/Plain text.tmLanguage"}
+  },
 
-	/*
-	 * Sidebar
-	 */
+  /*
+   * Sidebar
+   */
 
-	{
-		"keys": ["alt+`"], "command": "toggle_side_bar"
-	},
+  {
+    "keys": ["alt+`"], "command": "toggle_side_bar"
+  },
 
-	/*
-	 * Word Wrap
-	 */
+  /*
+   * Word Wrap
+   */
 
-	{
-		"keys": ["alt+w"], "command": "toggle_setting",
-		"args": {"setting": "word_wrap"}
-	},
+  {
+    "keys": ["alt+w"], "command": "toggle_setting",
+    "args": {"setting": "word_wrap"}
+  },
 
-	/*
-	 * Vendor: Emmet
-	 */
+  /*
+   * Vendor: Emmet
+   */
 
-	{
-		"keys": ["alt+shift+w"], "command": "wrap_as_you_type",
-		"context": [{
-			"operand": false, 
-			"operator": "equal", 
-			"match_all": true, 
-			"key": "setting.is_widget"
-		},
-		{
-			"match_all": true, 
-			"key": "emmet_action_enabled.wrap_as_you_type"
-		}]
-	}
+  {
+    "keys": ["alt+shift+w"], "command": "wrap_as_you_type",
+    "context": [{
+      "operand": false, 
+      "operator": "equal", 
+      "match_all": true, 
+      "key": "setting.is_widget"
+    },
+    {
+      "match_all": true, 
+      "key": "emmet_action_enabled.wrap_as_you_type"
+    }]
+  }
 ]

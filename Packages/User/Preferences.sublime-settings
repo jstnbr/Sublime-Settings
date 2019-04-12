@@ -1,67 +1,73 @@
 {
-    /*
-     * General
-     */
+  /*
+   * General
+   */
 
-    // "smooth", "phase", "blink", "solid", "wide"
-    "caret_style": "wide",
+  // "smooth", "phase", "blink", "solid", "wide"
+  "caret_style": "wide",
 
-    "open_files_in_new_window": false,
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true,
+  "open_files_in_new_window": false,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
 
-    /*
-     * Text
-     */
+  /*
+   * Git
+   */
 
-    "font_face": "Menlo",
-    "font_size": 11,
-    "line_padding_bottom": 4,
-    "line_padding_top": 4,
+  "mini_diff": false,
 
-    /*
-     * Theme
-     */
+  /*
+   * Ignore
+   */
 
-    "color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
-    "theme": "Default.sublime-theme",
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
 
-    // Augmented Reaction
-    // "color_scheme": "Packages/User/Theme/Augmented Reaction/Augmented Reaction.tmTheme",
+  /*
+   * Text
+   */
 
-    // Ayu
-    // "color_scheme": "Packages/User/Theme/Ayu/ayu-dark.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Ayu/ayu-light.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Ayu/ayu-mirage.tmTheme",
-    // "theme": "ayu-dark.sublime-theme",
-    // "theme": "ayu-light.sublime-theme",
-    // "theme": "ayu-mirage.sublime-theme",
+  "font_face": "Menlo",
+  "font_size": 11,
+  "line_padding_bottom": 4,
+  "line_padding_top": 4,
 
-    // Enki
-    // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Alt.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Aster.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Aster-red.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Light.tmTheme",
+  /*
+   * Theme
+   */
 
-    // Facebook
-    // "color_scheme": "Packages/User/Theme/Facebook/Facebook.tmTheme",
+  "color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
+  "theme": "Default.sublime-theme",
 
-    // Glacier
-    // "color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
+  // Augmented Reaction
+  // "color_scheme": "Packages/User/Theme/Augmented Reaction/Augmented Reaction.tmTheme",
 
-    // Material
-    // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Darker.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Lighter.tmTheme",
-    // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Palenight.tmTheme",
+  // Ayu
+  // "color_scheme": "Packages/User/Theme/Ayu/ayu-dark.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Ayu/ayu-light.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Ayu/ayu-mirage.tmTheme",
+  // "theme": "ayu-dark.sublime-theme",
+  // "theme": "ayu-light.sublime-theme",
+  // "theme": "ayu-mirage.sublime-theme",
 
-    /*
-     * Ignore
-     */
+  // Enki
+  // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Alt.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Aster.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Aster-red.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Enki/scheme/Enki-Light.tmTheme",
 
-    "ignored_packages":
-    [
-        "Vintage"
-    ]
+  // Facebook
+  // "color_scheme": "Packages/User/Theme/Facebook/Facebook.tmTheme",
+
+  // Glacier
+  // "color_scheme": "Packages/User/Theme/Glacier/glacier.tmTheme",
+
+  // Material
+  // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Darker.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Lighter.tmTheme",
+  // "color_scheme": "Packages/User/Theme/Material/schemes/Material-Theme-Palenight.tmTheme",
 }
