@@ -1,10 +1,9 @@
-# Sublime Settings
+# Sublime Text Settings
 
-Sublime Text custom settings
+Sublime Text custom settings.
 
 ## Includes
 
-- Package Control
 - Emmet
 - HTML-CSS-JS Prettify
 - Key Bindings
@@ -13,4 +12,4 @@ Sublime Text custom settings
 
 ## Usage
 
-In Sublime Text select *Preferences -> Browse Packages*, and replace the folders `Packages` and `Installed Packages` with the ones from this repository.
+Replace the `Packages` folder with the one from this repository.
