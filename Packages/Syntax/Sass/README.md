@@ -1,54 +1,24 @@
-# Sass for TextMate/Sublime Text 2 & 3
+# SCSS and Sass syntax for Sublime Text 3
 
-## What's this thingie?
+Includes completions for CSS properties and values, as well as relevant Sass functions.
 
-This add-on adds syntax highlighting and tab/code completion for Sass and SCSS files. It features [Zen Coding](http://code.google.com/p/zen-coding/) shortcuts for many CSS properties, making you look like some kind of stylesheet wizard to everyone around you. You've got to like that.
+Highlights code using up to date specifications for properties and values to help you catch typos.
 
-## TextMate Installation
+Syntax highlighting should be very similar to [CSS](https://github.com/sublimehq/Packages/tree/master/CSS) and [LESS](https://github.com/danro/LESS-sublime) (which is maintained in parallel).
 
-### With git
 
-    mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
-    cd ~/Library/Application\ Support/TextMate/Bundles/
-    git clone https://github.com/nathos/sass-textmate-bundle.git Sass.tmbundle
-    osascript -e 'tell app "TextMate" to reload bundles'
+## Installation
 
-### Without git
-    mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-    cd ~/Library/Application\ Support/TextMate/Bundles
-    mkdir sass-textmate-bundle.tmbundle && curl -L https://github.com/nathos/sass-textmate-bundle/tarball/master | tar xz --strip 1 -C sass-textmate-bundle.tmbundle
-    osascript -e 'tell app "TextMate" to reload bundles'
+This package is available through [Package Control](https://packagecontrol.io).
 
-## Sublime Text 2 & 3 Installation
 
-### With Sublime Package Control
+## 2.0
 
-I recommend using the excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control) to install Sublime Text 2 packages.
+Version 2.0 introduces new highlighting and completion features. This is a pretty big change, so for those who want it the previous version is still available as well as a different package: [Syntax Highlighting for Sass](https://github.com/P233/Syntax-highlighting-for-Sass).
 
-Once you have Package Control installed, activate your Command Palette and choose ```Package Control: Install Package```.
 
-Then, search for **"Sass"** and press Enter. In mere moments you'll be up and running with full syntax highlighting, tab completion and more. Huzzah!
+## Buy me a coffee 
 
-### With Git (Windows)
+☕️👌🏻
 
-From within Sublime Text go to:
-```Preferences > Browse Packages...```
-
-Right-click and select:
-```Git Bash Here```
-
-From the Git Bash:
-```git clone https://github.com/nathos/sass-textmate-bundle.git```
-
-Restart Sublime Text.
-
-### Putting HAML in its place
-
-You may find that when you open files with the `.sass` extension, Sublime Text 2 initially interprets the syntax as HAML. To permanently fix this, open `Packages/Rails/Ruby Haml.tmLanguage` and delete the line `<string>sass</string>`.
-
-Alternatively, you can open a sass file in Sublime Text (with either the .sass or .scss extension) and go to ```View > Syntax``` and select Sass. This will also ensure updated won't override this setting in future.
-
-## About & Credit
-This was originally a fork of <https://github.com/seaofclouds/sass-textmate-bundle>, and includes the best contributions of people [throughout the network](https://github.com/nathos/sass-textmate-bundle/network).
-
-Features include improved syntax highlighting, [Zen Coding](http://code.google.com/p/zen-coding/)-style property autocompletion, and more.
+If you enjoy this package, feel free to make a little [donation via PayPal](https://paypal.me/pools/c/89Rf8xJKlw) towards the coffee that keeps this project running. It's much appreciated!
