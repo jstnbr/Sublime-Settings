@@ -30,7 +30,7 @@
 	},
 	{
 		"keys": ["alt+shift+s"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Sass/Sass.tmLanguage"}
+		"args": {"syntax": "Packages/Syntax/Sass/Syntaxes/SCSS.sublime-syntax"}
 	},
 	{
 		"keys": ["alt+shift+t"], "command": "set_file_type",

@@ -1,5 +1,8 @@
 [
-	// Syntax Change
+	/*
+	 * Syntax
+	 */
+
 	{
 		"keys": ["alt+shift+c"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/CSS/CSS.sublime-syntax"}
@@ -30,25 +33,34 @@
 	},
 	{
 		"keys": ["alt+shift+s"], "command": "set_file_type",
-		"args": {"syntax": "Packages/Syntax/Sass/Sass.tmLanguage"}
+		"args": {"syntax": "Packages/Syntax/Sass/Syntaxes/SCSS.sublime-syntax"}
 	},
 	{
 		"keys": ["alt+shift+t"], "command": "set_file_type",
 		"args": {"syntax": "Packages/Syntax/Text/Plain text.tmLanguage"}
 	},
 
-	// Toggle Sidebar
+	/*
+	 * Sidebar
+	 */
+
 	{
 		"keys": ["alt+`"], "command": "toggle_side_bar"
 	},
 
-	// Word Wrap
+	/*
+	 * Word Wrap
+	 */
+
 	{
 		"keys": ["alt+w"], "command": "toggle_setting",
 		"args": {"setting": "word_wrap"}
 	},
 
-	// Emmet
+	/*
+	 * Vendor: Emmet
+	 */
+
 	{
 		"keys": ["alt+shift+w"], "command": "wrap_as_you_type",
 		"context": [{
