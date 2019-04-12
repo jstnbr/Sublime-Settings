@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-\$('$1').on('${2:click}', function () {$3});
+\$( '${1}' ).on( '${2:click}', function() {$3} );
 ]]>
 </content>
 
