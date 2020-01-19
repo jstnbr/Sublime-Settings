@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+alert( ${2} );
+]]>
+</content>
+
+<tabTrigger>al</tabTrigger>
+
+<scope>source.js, source.js.embedded.html</scope>
+</snippet>
