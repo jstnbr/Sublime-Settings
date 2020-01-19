@@ -10,6 +10,10 @@ Sublime Text user settings.
 - Snippets
 - Themes
 
+## Requirements
+
+- Package Control
+
 ## Usage
 
 #### Git
