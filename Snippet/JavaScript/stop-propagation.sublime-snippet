@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+e.stopPropagation();
+]]>
+</content>
+
+<tabTrigger>sp</tabTrigger>
+
+<scope>source.js, source.js.embedded.html</scope>
+</snippet>
