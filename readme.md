@@ -15,7 +15,7 @@ Sublime Text user settings.
 #### Git
 
 ```
-rm -r ~/Library/"Application Support"/"Sublime Text 3"/Packages/User && git -C ~/Library/"Application Support"/"Sublime Text 3"/Packages clone https://github.com/jstnbr/Sublime.git User
+rm -rf ~/Library/"Application Support"/"Sublime Text 3"/Packages/User && git -C ~/Library/"Application Support"/"Sublime Text 3"/Packages clone https://github.com/jstnbr/Sublime.git User
 ```
 
 #### Manual
