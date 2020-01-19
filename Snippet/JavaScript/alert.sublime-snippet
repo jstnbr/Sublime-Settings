@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-alert( ${2} );
+alert( ${1} );
 ]]>
 </content>
 
