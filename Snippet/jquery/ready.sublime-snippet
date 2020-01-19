@@ -5,7 +5,7 @@
 ]]>
 </content>
 
-<tabTrigger>$ready</tabTrigger>
+<tabTrigger>ready</tabTrigger>
 
 <scope>source.js, source.js.embedded.html</scope>
 </snippet>
