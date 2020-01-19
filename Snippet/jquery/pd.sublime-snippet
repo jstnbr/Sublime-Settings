@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+e.preventDefault();
+]]>
+</content>
+
+<tabTrigger>pd</tabTrigger>
+
+<scope>source.js, source.js.embedded.html</scope>
+</snippet>
