@@ -1,6 +1,6 @@
 # Sublime Text Settings
 
-Sublime Text custom settings.
+Sublime Text user settings.
 
 ## Includes
 
@@ -12,4 +12,12 @@ Sublime Text custom settings.
 
 ## Usage
 
-Replace the `Packages` folder with the one from this repository.
+#### Git
+
+```
+rm -r ~/Library/"Application Support"/"Sublime Text 3"/Packages/User && git -C ~/Library/"Application Support"/"Sublime Text 3"/Packages clone https://github.com/jstnbr/Sublime.git User
+```
+
+#### Manual
+
+Download repository and rename it to `User`. Then replace your folder with this one.
