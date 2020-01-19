@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+<?php pr( \$${1:var} ); ?>
+]]>
+</content>
+
+<tabTrigger>_pr</tabTrigger>
+
+<scope></scope>
+</snippet>

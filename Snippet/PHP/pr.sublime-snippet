@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+pr( \$${1:var} );
+]]>
+</content>
+
+<tabTrigger>pr</tabTrigger>
+
+<scope></scope>
+</snippet>
